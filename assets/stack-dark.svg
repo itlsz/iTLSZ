@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="942" viewBox="0 0 850 942" role="img" aria-label="Stack full stack de Luis López en 14 capas">
+  <title>~/fullstack — análisis, métodos, lenguajes, frontend, mobile, backend, apis, integración, seguridad, datos, analítica, testing, cloud, soporte</title>
+  <desc>© 2026 Luis López (todoesluis). Todos los derechos reservados. Diseño y código propios: prohibida su copia o reutilización sin permiso del autor.</desc>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.03"/>
+    </pattern>
+    <clipPath id="win"><rect x="1" y="1" width="848" height="940" rx="12"/></clipPath>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="44" y1="125.0" x2="44" y2="879.0">
+      <stop offset="0" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#79c0ff"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="850" height="942" fill="#0d1117"/>
+    <rect width="850" height="36" fill="#161b22"/>
+    <rect y="36" width="850" height="1" fill="#30363d"/>
+    <rect width="850" height="942" fill="url(#scan)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="941" rx="12" fill="none" stroke="#30363d"/>
+
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+
+  <g font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+    <text x="425.0" y="23" text-anchor="middle" font-size="13" fill="#8b949e">luis@itlsz: ~/fullstack</text>
+    <text x="32" y="70" font-size="15"><tspan fill="#7ee787">luis@itlsz</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#e6edf3">tree ~/fullstack --capas</tspan></text>
+    <text x="818" y="70" text-anchor="end" font-size="12" fill="#8b949e">del requerimiento a producción</text>
+
+    <line x1="44" y1="125.0" x2="44" y2="879.0" stroke="url(#flow)" stroke-width="2" stroke-dasharray="4 4" opacity="0.6"/>
+    <circle cx="44" cy="125.0" r="4" fill="#7ee787">
+      <animate attributeName="cy" values="125.0;879.0" dur="6.3s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="6.3s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.462;1" dur="0.65s" fill="freeze"/>
+      <rect x="20" y="96" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="125.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="122.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">01</tspan> análisis/</text>
+      <text x="66" y="140.0" font-size="11" fill="#8b949e">de idea a diseño</text>
+      <g><rect x="212.0" y="112.0" width="132.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="125.0" r="4" fill="#7ee787"/><text x="234.0" y="129.0" font-size="12" fill="#e6edf3">Requerimientos</text></g>
+      <g><rect x="350.8" y="112.0" width="154.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="362.8" cy="125.0" r="4" fill="#d2a8ff"/><text x="372.8" y="129.0" font-size="12" fill="#e6edf3">Modelado de datos</text></g>
+      <g><rect x="511.2" y="112.0" width="118.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="523.2" cy="125.0" r="4" fill="#79c0ff"/><text x="533.2" y="129.0" font-size="12" fill="#e6edf3">Arquitectura</text></g>
+      <g><rect x="635.6" y="112.0" width="125.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="647.6" cy="125.0" r="4" fill="#ffa657"/><text x="657.6" y="129.0" font-size="12" fill="#e6edf3">Documentación</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.551;1" dur="0.78s" fill="freeze"/>
+      <circle cx="44" cy="183.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="180.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">02</tspan> métodos/</text>
+      <text x="66" y="198.0" font-size="11" fill="#8b949e">cómo trabajo</text>
+      <g><rect x="212.0" y="170.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="183.0" r="4" fill="#7ee787"/><text x="234.0" y="187.0" font-size="12" fill="#e6edf3">Scrum</text></g>
+      <g><rect x="286.0" y="170.0" width="53.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="298.0" cy="183.0" r="4" fill="#d2a8ff"/><text x="308.0" y="187.0" font-size="12" fill="#e6edf3">UML</text></g>
+      <g><rect x="345.6" y="170.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="357.6" cy="183.0" r="4" fill="#ffa657"/><text x="367.6" y="187.0" font-size="12" fill="#e6edf3">BPMN</text></g>
+      <g><rect x="412.4" y="170.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="424.4" cy="183.0" r="4" fill="#F05032"/><text x="434.4" y="187.0" font-size="12" fill="#e6edf3">Git Flow</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.615;1" dur="0.91s" fill="freeze"/>
+      <rect x="20" y="212" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="241.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="238.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">03</tspan> lenguajes/</text>
+      <text x="66" y="256.0" font-size="11" fill="#8b949e">los que domino</text>
+      <g><rect x="212.0" y="228.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="241.0" r="4" fill="#3178C6"/><text x="234.0" y="245.0" font-size="12" fill="#e6edf3">TypeScript</text></g>
+      <g><rect x="322.0" y="228.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="334.0" cy="241.0" r="4" fill="#F7DF1E"/><text x="344.0" y="245.0" font-size="12" fill="#e6edf3">JavaScript</text></g>
+      <g><rect x="432.0" y="228.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="444.0" cy="241.0" r="4" fill="#3776AB"/><text x="454.0" y="245.0" font-size="12" fill="#e6edf3">Python</text></g>
+      <g><rect x="513.2" y="228.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="525.2" cy="241.0" r="4" fill="#ED8B00"/><text x="535.2" y="245.0" font-size="12" fill="#e6edf3">Java</text></g>
+      <g><rect x="580.0" y="228.0" width="46.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="592.0" cy="241.0" r="4" fill="#00ADD8"/><text x="602.0" y="245.0" font-size="12" fill="#e6edf3">Go</text></g>
+      <g><rect x="632.4" y="228.0" width="53.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="644.4" cy="241.0" r="4" fill="#777BB4"/><text x="654.4" y="245.0" font-size="12" fill="#e6edf3">PHP</text></g>
+      <g><rect x="692.0" y="228.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="704.0" cy="241.0" r="4" fill="#00B4AB"/><text x="714.0" y="245.0" font-size="12" fill="#e6edf3">Dart</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.663;1" dur="1.04s" fill="freeze"/>
+      <circle cx="44" cy="299.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="296.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">04</tspan> frontend/</text>
+      <text x="66" y="314.0" font-size="11" fill="#8b949e">interfaces web</text>
+      <g><rect x="212.0" y="286.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="299.0" r="4" fill="#61DAFB"/><text x="234.0" y="303.0" font-size="12" fill="#e6edf3">React</text></g>
+      <g><rect x="286.0" y="286.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="298.0" cy="299.0" r="4" fill="#e6edf3"/><text x="308.0" y="303.0" font-size="12" fill="#e6edf3">Next.js</text></g>
+      <g><rect x="374.4" y="286.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="386.4" cy="299.0" r="4" fill="#4FC08D"/><text x="396.4" y="303.0" font-size="12" fill="#e6edf3">Vue · Nuxt</text></g>
+      <g><rect x="484.4" y="286.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="496.4" cy="299.0" r="4" fill="#DD0031"/><text x="506.4" y="303.0" font-size="12" fill="#e6edf3">Angular</text></g>
+      <g><rect x="572.8" y="286.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="584.8" cy="299.0" r="4" fill="#FF5D01"/><text x="594.8" y="303.0" font-size="12" fill="#e6edf3">Astro</text></g>
+      <g><rect x="646.8" y="286.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="658.8" cy="299.0" r="4" fill="#646CFF"/><text x="668.8" y="303.0" font-size="12" fill="#e6edf3">Vite</text></g>
+      <g><rect x="713.6" y="286.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="725.6" cy="299.0" r="4" fill="#38B2AC"/><text x="735.6" y="303.0" font-size="12" fill="#e6edf3">Tailwind</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.701;1" dur="1.17s" fill="freeze"/>
+      <rect x="20" y="328" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="357.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="354.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">05</tspan> mobile/</text>
+      <text x="66" y="372.0" font-size="11" fill="#8b949e">apps móviles</text>
+      <g><rect x="212.0" y="344.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="357.0" r="4" fill="#54C5F8"/><text x="234.0" y="361.0" font-size="12" fill="#e6edf3">Flutter</text></g>
+      <g><rect x="300.4" y="344.0" width="118.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="312.4" cy="357.0" r="4" fill="#61DAFB"/><text x="322.4" y="361.0" font-size="12" fill="#e6edf3">React Native</text></g>
+      <g><rect x="424.8" y="344.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="436.8" cy="357.0" r="4" fill="#F05138"/><text x="446.8" y="361.0" font-size="12" fill="#e6edf3">Swift</text></g>
+      <g><rect x="498.8" y="344.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="510.8" cy="357.0" r="4" fill="#7F52FF"/><text x="520.8" y="361.0" font-size="12" fill="#e6edf3">Kotlin</text></g>
+      <g><rect x="580.0" y="344.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="592.0" cy="357.0" r="4" fill="#e6edf3"/><text x="602.0" y="361.0" font-size="12" fill="#e6edf3">Expo</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.731;1" dur="1.30s" fill="freeze"/>
+      <circle cx="44" cy="415.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="412.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">06</tspan> backend/</text>
+      <text x="66" y="430.0" font-size="11" fill="#8b949e">lógica y servicios</text>
+      <g><rect x="212.0" y="402.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="415.0" r="4" fill="#e6edf3"/><text x="234.0" y="419.0" font-size="12" fill="#e6edf3">Express</text></g>
+      <g><rect x="300.4" y="402.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="312.4" cy="415.0" r="4" fill="#E0234E"/><text x="322.4" y="419.0" font-size="12" fill="#e6edf3">NestJS</text></g>
+      <g><rect x="381.6" y="402.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="393.6" cy="415.0" r="4" fill="#009688"/><text x="403.6" y="419.0" font-size="12" fill="#e6edf3">FastAPI</text></g>
+      <g><rect x="470.0" y="402.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="482.0" cy="415.0" r="4" fill="#44B78B"/><text x="492.0" y="419.0" font-size="12" fill="#e6edf3">Django</text></g>
+      <g><rect x="551.2" y="402.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="563.2" cy="415.0" r="4" fill="#e6edf3"/><text x="573.2" y="419.0" font-size="12" fill="#e6edf3">Flask</text></g>
+      <g><rect x="625.2" y="402.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="637.2" cy="415.0" r="4" fill="#FF2D20"/><text x="647.2" y="419.0" font-size="12" fill="#e6edf3">Laravel</text></g>
+      <g><rect x="713.6" y="402.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="725.6" cy="415.0" r="4" fill="#6DB33F"/><text x="735.6" y="419.0" font-size="12" fill="#e6edf3">Spring</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.755;1" dur="1.43s" fill="freeze"/>
+      <rect x="20" y="444" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="473.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="470.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">07</tspan> apis/</text>
+      <text x="66" y="488.0" font-size="11" fill="#8b949e">endpoints y bots</text>
+      <g><rect x="212.0" y="460.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="473.0" r="4" fill="#49A3D6"/><text x="234.0" y="477.0" font-size="12" fill="#e6edf3">REST</text></g>
+      <g><rect x="278.8" y="460.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="290.8" cy="473.0" r="4" fill="#E10098"/><text x="300.8" y="477.0" font-size="12" fill="#e6edf3">GraphQL</text></g>
+      <g><rect x="367.2" y="460.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="379.2" cy="473.0" r="4" fill="#FF6C37"/><text x="389.2" y="477.0" font-size="12" fill="#e6edf3">Postman</text></g>
+      <g><rect x="455.6" y="460.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="467.6" cy="473.0" r="4" fill="#26A5E4"/><text x="477.6" y="477.0" font-size="12" fill="#e6edf3">Bots</text></g>
+      <g><rect x="522.4" y="460.0" width="147.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="534.4" cy="473.0" r="4" fill="#7ee787"/><text x="544.4" y="477.0" font-size="12" fill="#e6edf3">Automatizaciones</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.776;1" dur="1.56s" fill="freeze"/>
+      <circle cx="44" cy="531.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="528.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">08</tspan> integración/</text>
+      <text x="66" y="546.0" font-size="11" fill="#8b949e">sistemas conectados</text>
+      <g><rect x="212.0" y="518.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="531.0" r="4" fill="#79c0ff"/><text x="234.0" y="535.0" font-size="12" fill="#e6edf3">WebSockets</text></g>
+      <g><rect x="322.0" y="518.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="334.0" cy="531.0" r="4" fill="#C73A63"/><text x="344.0" y="535.0" font-size="12" fill="#e6edf3">Webhooks</text></g>
+      <g><rect x="417.6" y="518.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="429.6" cy="531.0" r="4" fill="#FF6600"/><text x="439.6" y="535.0" font-size="12" fill="#e6edf3">RabbitMQ</text></g>
+      <g><rect x="513.2" y="518.0" width="147.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="525.2" cy="531.0" r="4" fill="#56d4dd"/><text x="535.2" y="535.0" font-size="12" fill="#e6edf3">APIs de terceros</text></g>
+      <g><rect x="666.4" y="518.0" width="53.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="678.4" cy="531.0" r="4" fill="#EA4B71"/><text x="688.4" y="535.0" font-size="12" fill="#e6edf3">n8n</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.793;1" dur="1.69s" fill="freeze"/>
+      <rect x="20" y="560" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="589.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="586.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">09</tspan> seguridad/</text>
+      <text x="66" y="604.0" font-size="11" fill="#8b949e">auth y acceso</text>
+      <g><rect x="212.0" y="576.0" width="53.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="589.0" r="4" fill="#FB015B"/><text x="234.0" y="593.0" font-size="12" fill="#e6edf3">JWT</text></g>
+      <g><rect x="271.6" y="576.0" width="96.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="283.6" cy="589.0" r="4" fill="#56d4dd"/><text x="293.6" y="593.0" font-size="12" fill="#e6edf3">OAuth 2.0</text></g>
+      <g><rect x="374.4" y="576.0" width="125.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="386.4" cy="589.0" r="4" fill="#FFCA28"/><text x="396.4" y="593.0" font-size="12" fill="#e6edf3">Firebase Auth</text></g>
+      <g><rect x="506.0" y="576.0" width="125.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="518.0" cy="589.0" r="4" fill="#3ECF8E"/><text x="528.0" y="593.0" font-size="12" fill="#e6edf3">Supabase Auth</text></g>
+      <g><rect x="637.6" y="576.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="649.6" cy="589.0" r="4" fill="#7ee787"/><text x="659.6" y="593.0" font-size="12" fill="#e6edf3">HTTPS</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.808;1" dur="1.82s" fill="freeze"/>
+      <circle cx="44" cy="647.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="644.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">10</tspan> datos/</text>
+      <text x="66" y="662.0" font-size="11" fill="#8b949e">persistencia</text>
+      <g><rect x="212.0" y="634.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="647.0" r="4" fill="#4F8CC9"/><text x="234.0" y="651.0" font-size="12" fill="#e6edf3">PostgreSQL</text></g>
+      <g><rect x="322.0" y="634.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="334.0" cy="647.0" r="4" fill="#00758F"/><text x="344.0" y="651.0" font-size="12" fill="#e6edf3">MySQL</text></g>
+      <g><rect x="396.0" y="634.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="408.0" cy="647.0" r="4" fill="#47A248"/><text x="418.0" y="651.0" font-size="12" fill="#e6edf3">MongoDB</text></g>
+      <g><rect x="484.4" y="634.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="496.4" cy="647.0" r="4" fill="#DC382D"/><text x="506.4" y="651.0" font-size="12" fill="#e6edf3">Redis</text></g>
+      <g><rect x="558.4" y="634.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="570.4" cy="647.0" r="4" fill="#FFCA28"/><text x="580.4" y="651.0" font-size="12" fill="#e6edf3">Firebase</text></g>
+      <g><rect x="654.0" y="634.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="666.0" cy="647.0" r="4" fill="#0F80CC"/><text x="676.0" y="651.0" font-size="12" fill="#e6edf3">SQLite</text></g>
+      <g><rect x="735.2" y="634.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="747.2" cy="647.0" r="4" fill="#3ECF8E"/><text x="757.2" y="651.0" font-size="12" fill="#e6edf3">Supabase</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.821;1" dur="1.95s" fill="freeze"/>
+      <rect x="20" y="676" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="705.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="702.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">11</tspan> analítica/</text>
+      <text x="66" y="720.0" font-size="11" fill="#8b949e">datos a decisiones</text>
+      <g><rect x="212.0" y="692.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="705.0" r="4" fill="#F2C811"/><text x="234.0" y="709.0" font-size="12" fill="#e6edf3">Power BI</text></g>
+      <g><rect x="307.6" y="692.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="319.6" cy="705.0" r="4" fill="#21A366"/><text x="329.6" y="709.0" font-size="12" fill="#e6edf3">Excel</text></g>
+      <g><rect x="381.6" y="692.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="393.6" cy="705.0" r="4" fill="#8C7CF0"/><text x="403.6" y="709.0" font-size="12" fill="#e6edf3">Pandas</text></g>
+      <g><rect x="462.8" y="692.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="474.8" cy="705.0" r="4" fill="#56d4dd"/><text x="484.8" y="709.0" font-size="12" fill="#e6edf3">Dashboards</text></g>
+      <g><rect x="572.8" y="692.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="584.8" cy="705.0" r="4" fill="#ffa657"/><text x="594.8" y="709.0" font-size="12" fill="#e6edf3">Reportes</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.832;1" dur="2.08s" fill="freeze"/>
+      <circle cx="44" cy="763.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="760.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">12</tspan> testing/</text>
+      <text x="66" y="778.0" font-size="11" fill="#8b949e">calidad</text>
+      <g><rect x="212.0" y="750.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="763.0" r="4" fill="#0A9EDC"/><text x="234.0" y="767.0" font-size="12" fill="#e6edf3">Pytest</text></g>
+      <g><rect x="293.2" y="750.0" width="60.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="305.2" cy="763.0" r="4" fill="#C21325"/><text x="315.2" y="767.0" font-size="12" fill="#e6edf3">Jest</text></g>
+      <g><rect x="360.0" y="750.0" width="140.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="372.0" cy="763.0" r="4" fill="#FF6C37"/><text x="382.0" y="767.0" font-size="12" fill="#e6edf3">Pruebas de APIs</text></g>
+      <g><rect x="506.0" y="750.0" width="154.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="518.0" cy="763.0" r="4" fill="#7ee787"/><text x="528.0" y="767.0" font-size="12" fill="#e6edf3">Pruebas unitarias</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.842;1" dur="2.21s" fill="freeze"/>
+      <rect x="20" y="792" width="810" height="58" rx="8" fill="#ffffff" opacity="0.025"/>
+      <circle cx="44" cy="821.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="818.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">13</tspan> cloud/</text>
+      <text x="66" y="836.0" font-size="11" fill="#8b949e">infra y deploy</text>
+      <g><rect x="212.0" y="808.0" width="53.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="821.0" r="4" fill="#FF9900"/><text x="234.0" y="825.0" font-size="12" fill="#e6edf3">AWS</text></g>
+      <g><rect x="271.6" y="808.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="283.6" cy="821.0" r="4" fill="#F80000"/><text x="293.6" y="825.0" font-size="12" fill="#e6edf3">Oracle</text></g>
+      <g><rect x="352.8" y="808.0" width="75.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="364.8" cy="821.0" r="4" fill="#2496ED"/><text x="374.8" y="825.0" font-size="12" fill="#e6edf3">Docker</text></g>
+      <g><rect x="434.0" y="808.0" width="104.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="446.0" cy="821.0" r="4" fill="#326CE5"/><text x="456.0" y="825.0" font-size="12" fill="#e6edf3">Kubernetes</text></g>
+      <g><rect x="544.0" y="808.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="556.0" cy="821.0" r="4" fill="#FCC624"/><text x="566.0" y="825.0" font-size="12" fill="#e6edf3">Linux</text></g>
+      <g><rect x="618.0" y="808.0" width="68.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="630.0" cy="821.0" r="4" fill="#009639"/><text x="640.0" y="825.0" font-size="12" fill="#e6edf3">Nginx</text></g>
+      <g><rect x="692.0" y="808.0" width="132.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="704.0" cy="821.0" r="4" fill="#2088FF"/><text x="714.0" y="825.0" font-size="12" fill="#e6edf3">GitHub Actions</text></g>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.850;1" dur="2.34s" fill="freeze"/>
+      <circle cx="44" cy="879.0" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="66" y="876.0" font-size="15" font-weight="700" fill="#e6edf3"><tspan fill="#7ee787">14</tspan> soporte/</text>
+      <text x="66" y="894.0" font-size="11" fill="#8b949e">TI del día a día</text>
+      <g><rect x="212.0" y="866.0" width="82.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="224.0" cy="879.0" r="4" fill="#3C9BEA"/><text x="234.0" y="883.0" font-size="12" fill="#e6edf3">Windows</text></g>
+      <g><rect x="300.4" y="866.0" width="147.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="312.4" cy="879.0" r="4" fill="#79c0ff"/><text x="322.4" y="883.0" font-size="12" fill="#e6edf3">Active Directory</text></g>
+      <g><rect x="453.6" y="866.0" width="89.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="465.6" cy="879.0" r="4" fill="#ffa657"/><text x="475.6" y="883.0" font-size="12" fill="#e6edf3">Hardware</text></g>
+      <g><rect x="549.2" y="866.0" width="125.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="561.2" cy="879.0" r="4" fill="#7ee787"/><text x="571.2" y="883.0" font-size="12" fill="#e6edf3">Mesa de ayuda</text></g>
+      <g><rect x="680.8" y="866.0" width="125.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="692.8" cy="879.0" r="4" fill="#d2a8ff"/><text x="702.8" y="883.0" font-size="12" fill="#e6edf3">Inventario TI</text></g>
+    </g>
+  </g>
+</svg>

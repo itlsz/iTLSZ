@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/spotify.py": {
+      "includeFiles": "spotify/**",
+      "maxDuration": 10
+    },
+    "api/activity.py": {
+      "includeFiles": "activity/**",
+      "maxDuration": 10
+    }
+  }
+}

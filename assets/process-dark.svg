@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="226" viewBox="0 0 850 226" role="img" aria-label="Cómo trabajo con clientes: reunión, propuesta, diseño, desarrollo, entrega y soporte.">
+  <title>luis@itlsz: ~/workflow — cómo trabajo</title>
+  <desc>© 2026 Luis López (todoesluis). Todos los derechos reservados. Diseño y código propios: prohibida su copia o reutilización sin permiso del autor.</desc>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.03"/></pattern>
+    <clipPath id="win"><rect x="1" y="1" width="848" height="224" rx="12"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="850" height="226" fill="#0d1117"/>
+    <rect width="850" height="36" fill="#161b22"/>
+    <rect y="36" width="850" height="1" fill="#30363d"/>
+    <rect width="850" height="226" fill="url(#scan)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="225" rx="12" fill="none" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <g font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+    <text x="425.0" y="23" text-anchor="middle" font-size="13" fill="#8b949e">luis@itlsz: ~/workflow</text>
+    <text x="32" y="70" font-size="15"><tspan fill="#7ee787">luis@itlsz</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#e6edf3">./workflow --cliente</tspan></text>
+    <text x="818" y="70" text-anchor="end" font-size="12" fill="#8b949e">así trabajamos juntos</text>
+  </g>
+  <line x1="88.0" y1="128" x2="762.0" y2="128" stroke="#30363d" stroke-width="2" stroke-dasharray="4 5"/>
+  <circle cx="88.0" cy="128" r="5" fill="#7ee787"><animate attributeName="cx" values="88.0;762.0;762.0" keyTimes="0;0.686;1" dur="7.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.686;0.743" dur="7.0s" repeatCount="indefinite"/></circle>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.364;1" dur="0.55s" fill="freeze"/>
+    <rect x="32.0" y="96" width="112" height="104" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5">
+      <animate attributeName="stroke" values="#30363d;#30363d;#7ee787;#30363d;#30363d" keyTimes="0;0.000;0.000;0.120;1" dur="7.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="88.0" cy="128" r="19" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="88.0" cy="128" r="19" fill="#7ee787" opacity="0.14"/>
+    <path d="M83.0 134C83.0 130 79.0 128 79.0 124A9 9 0 0 1 97.0 124C97.0 128 93.0 130 93.0 134ZM84.0 138H92.0" fill="none" stroke="#7ee787" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="44.0" y="114" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e">01</text>
+    <text x="88.0" y="170" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">reunión</text>
+    <text x="88.0" y="187" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="9" fill="#8b949e">entiendo tu idea</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.462;1" dur="0.65s" fill="freeze"/>
+    <rect x="166.8" y="96" width="112" height="104" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5">
+      <animate attributeName="stroke" values="#30363d;#30363d;#56d4dd;#30363d;#30363d" keyTimes="0;0.127;0.137;0.257;1" dur="7.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="222.8" cy="128" r="19" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="222.8" cy="128" r="19" fill="#56d4dd" opacity="0.14"/>
+    <rect x="211.8" y="117" width="8" height="6" rx="1.5" fill="none" stroke="#56d4dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="225.8" y="117" width="8" height="6" rx="1.5" fill="none" stroke="#56d4dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="218.8" y="133" width="8" height="6" rx="1.5" fill="none" stroke="#56d4dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M215.8 123V128H229.8V123M222.8 128V133" fill="none" stroke="#56d4dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="178.8" y="114" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e">02</text>
+    <text x="222.8" y="170" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">propuesta</text>
+    <text x="222.8" y="187" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="9" fill="#8b949e">alcance y costo</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.533;1" dur="0.75s" fill="freeze"/>
+    <rect x="301.6" y="96" width="112" height="104" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5">
+      <animate attributeName="stroke" values="#30363d;#30363d;#79c0ff;#30363d;#30363d" keyTimes="0;0.264;0.274;0.394;1" dur="7.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="357.6" cy="128" r="19" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="357.6" cy="128" r="19" fill="#79c0ff" opacity="0.14"/>
+    <path d="M346.6 139L348.6 131L362.6 117L368.6 123L354.6 137ZM358.6 121L364.6 127" fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="313.6" y="114" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e">03</text>
+    <text x="357.6" y="170" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">diseño</text>
+    <text x="357.6" y="187" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="9" fill="#8b949e">prototipo a validar</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.588;1" dur="0.85s" fill="freeze"/>
+    <rect x="436.4" y="96" width="112" height="104" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5">
+      <animate attributeName="stroke" values="#30363d;#30363d;#d2a8ff;#30363d;#30363d" keyTimes="0;0.401;0.411;0.531;1" dur="7.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="492.4" cy="128" r="19" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="492.4" cy="128" r="19" fill="#d2a8ff" opacity="0.14"/>
+    <path d="M487.4 120L480.4 128L487.4 136M497.4 120L504.4 128L497.4 136M495.4 118L489.4 138" fill="none" stroke="#d2a8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="448.4" y="114" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e">04</text>
+    <text x="492.4" y="170" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">desarrollo</text>
+    <text x="492.4" y="187" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="9" fill="#8b949e">avances visibles</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.632;1" dur="0.95s" fill="freeze"/>
+    <rect x="571.2" y="96" width="112" height="104" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5">
+      <animate attributeName="stroke" values="#30363d;#30363d;#ffa657;#30363d;#30363d" keyTimes="0;0.539;0.549;0.669;1" dur="7.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="627.2" cy="128" r="19" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="627.2" cy="128" r="19" fill="#ffa657" opacity="0.14"/>
+    <rect x="616.2" y="117" width="22" height="9" rx="2" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="616.2" y="130" width="22" height="9" rx="2" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="621.2" cy="121.5" r="1.2" fill="#ffa657"/><circle cx="621.2" cy="134.5" r="1.2" fill="#ffa657"/>
+    <text x="583.2" y="114" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e">05</text>
+    <text x="627.2" y="170" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">entrega</text>
+    <text x="627.2" y="187" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="9" fill="#8b949e">en producción</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.667;1" dur="1.05s" fill="freeze"/>
+    <rect x="706.0" y="96" width="112" height="104" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5">
+      <animate attributeName="stroke" values="#30363d;#30363d;#f2cc60;#30363d;#30363d" keyTimes="0;0.676;0.686;0.806;1" dur="7.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="762.0" cy="128" r="19" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="762.0" cy="128" r="19" fill="#f2cc60" opacity="0.14"/>
+    <path d="M752.0 130V127A10 10 0 0 1 772.0 127V130" fill="none" stroke="#f2cc60" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="750.0" y="128" width="5" height="8" rx="2" fill="none" stroke="#f2cc60" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="769.0" y="128" width="5" height="8" rx="2" fill="none" stroke="#f2cc60" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M771.0 136C771.0 139 767.0 140 763.0 140" fill="none" stroke="#f2cc60" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="718.0" y="114" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e">06</text>
+    <text x="762.0" y="170" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">soporte</text>
+    <text x="762.0" y="187" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="9" fill="#8b949e">acompañamiento</text>
+  </g>
+</svg>

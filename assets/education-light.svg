@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="488" viewBox="0 0 850 488" role="img" aria-label="Formación: Ingeniería de Sistemas, Universidad de La Guajira (2020–2026, Mención de Honor, promedio 4.5/5.0); Técnico en Sistemas, SENA (2018–2020). Certificaciones: Google IT Automation with Python, Generative AI for Software Developers (IBM), Python Developer (freeCodeCamp), SQL (Udemy), Fundamentos de Redes de Datos y Redes Inalámbricas (SENA).">
+  <title>luis@itlsz: ~/education — formación</title>
+  <desc>© 2026 Luis López (todoesluis). Todos los derechos reservados. Diseño y código propios: prohibida su copia o reutilización sin permiso del autor.</desc>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000000" opacity="0.03"/></pattern>
+    <clipPath id="win"><rect x="1" y="1" width="848" height="486" rx="12"/></clipPath>
+    
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="850" height="488" fill="#ffffff"/>
+    <rect width="850" height="36" fill="#f6f8fa"/>
+    <rect y="36" width="850" height="1" fill="#d0d7de"/>
+    <rect width="850" height="488" fill="url(#scan)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="487" rx="12" fill="none" stroke="#d0d7de"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <g font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+    <text x="425.0" y="23" text-anchor="middle" font-size="13" fill="#59636e">luis@itlsz: ~/education</text>
+    <text x="32" y="70" font-size="15"><tspan fill="#1a7f37">luis@itlsz</tspan><tspan fill="#59636e">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#59636e">$</tspan> <tspan fill="#1f2328">cat ~/education</tspan></text>
+    <text x="818" y="70" text-anchor="end" font-size="12" fill="#59636e">formación continua</text>
+  </g>
+  <text x="32" y="104" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#1f2328"><tspan fill="#1a7f37">01</tspan> títulos/</text>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.462;1" dur="0.65s" fill="freeze"/>
+    <rect x="32.0" y="118" width="385.0" height="118" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="32.0" y="136" width="3" height="82" rx="1.5" fill="#1a7f37"/>
+    <path transform="translate(54.0 136)" d="M14 2L28 9L14 16L0 9Z M6 12V20C6 22 10 24 14 24C18 24 22 22 22 20V12" fill="none" stroke="#1a7f37" stroke-width="2" stroke-linejoin="round"/>
+    <text x="94.0" y="148" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1f2328">Ingeniería de Sistemas</text>
+    <text x="94.0" y="166" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">Universidad de La Guajira · 2020 – 2026</text>
+    <rect x="54.0" y="178" width="275.9" height="22" rx="11" fill="#1a7f37" opacity="0.14"/>
+    <text x="66.0" y="193" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" font-weight="700" fill="#1a7f37">★ Mención de Honor · Promedio 4.5 / 5.0</text>
+    <text x="54.0" y="220" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">Bases de datos · análisis · software · automatización</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.562;1" dur="0.80s" fill="freeze"/>
+    <rect x="433.0" y="118" width="385.0" height="118" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="433.0" y="136" width="3" height="82" rx="1.5" fill="#0969da"/>
+    <path transform="translate(455.0 136)" d="M14 2L28 9L14 16L0 9Z M6 12V20C6 22 10 24 14 24C18 24 22 22 22 20V12" fill="none" stroke="#0969da" stroke-width="2" stroke-linejoin="round"/>
+    <text x="495.0" y="148" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1f2328">Técnico en Sistemas</text>
+    <text x="495.0" y="166" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">SENA · Regional Guajira · 2018 – 2020</text>
+    <rect x="455.0" y="178" width="121.8" height="22" rx="11" fill="#0969da" opacity="0.14"/>
+    <text x="467.0" y="193" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" font-weight="700" fill="#0969da">Título oficial</text>
+    <text x="455.0" y="220" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">Sistemas operativos · redes de datos · automatización</text>
+  </g>
+  <text x="32" y="278" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#1f2328"><tspan fill="#1a7f37">02</tspan> certificaciones/</text>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.632;1" dur="0.95s" fill="freeze"/>
+    <rect x="32.0" y="292" width="252.7" height="82" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="66.0" cy="322" r="19" fill="#4285F4" opacity="0.13"/>
+    <path transform="translate(56.0 312.0) scale(0.8333)" d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z" fill="#4285F4"/>
+    <text x="96.0" y="318" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Google IT Automation</text><text x="96.0" y="333" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">with Python</text>
+    <text x="96.0" y="358" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">Google · Coursera · jul 2026</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.667;1" dur="1.05s" fill="freeze"/>
+    <rect x="298.7" y="292" width="252.7" height="82" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="332.7" cy="322" r="19" fill="#0F62FE" opacity="0.13"/>
+    <path transform="translate(322.7 312.0) scale(0.8333)" d="M23.544 15.993c.038 0 .06-.017.06-.053v-.036c0-.035-.022-.052-.06-.052h-.09v.14zm-.09.262h-.121v-.498h.225c.112 0 .169.066.169.157 0 .079-.036.129-.09.15l.111.19h-.133l-.092-.17h-.07zm.434-.222v-.062c0-.2-.157-.357-.363-.357a.355.355 0 00-.363.357v.062c0 .2.156.358.363.358a.355.355 0 00.363-.358zm-.838-.03c0-.28.212-.492.475-.492.264 0 .475.213.475.491 0 .279-.211.491-.475.491a.477.477 0 01-.475-.49zM16.21 8.13l-.216-.624h-3.56v.624zm.413 1.19l-.216-.623h-3.973v.624zm2.65 7.147h3.107v-.624h-3.108zm0-1.192h3.107v-.623h-3.108zm0-1.19h1.864v-.624h-1.865zm0-1.191h1.864v-.624h-1.865zm0-1.191h1.864v-.624h-3.555l-.175.504-.175-.504h-3.555v.624h1.865v-.574l.2.574h3.33l.2-.574zm1.864-1.815h-3.142l-.217.624h3.359zm-7.46 3.006h1.865v-.624h-1.865zm0 1.19h1.865v-.623h-1.865zm-1.243 1.191h3.108v-.623h-3.108zm0 1.192h3.108v-.624h-3.108zm6.386-8.961l-.216.624h3.776v-.624zm-.629 1.815h4.19v-.624h-3.974zm-4.514 1.19h3.359l-.216-.623h-3.143zm2.482 2.383h2.496l.218-.624h-2.932zm.417 1.19h1.662l.218-.623h-2.098zm.416 1.191h.83l.218-.623h-1.266zm.414 1.192l.217-.624h-.432zm-12.433-.006l4.578.006c.622 0 1.18-.237 1.602-.624h-6.18zm4.86-3v.624h2.092c0-.216-.03-.425-.083-.624zm-3.616.624h1.865v-.624H6.217zm3.617-3.573h2.008c.053-.199.083-.408.083-.624H9.834zm-3.617 0h1.865v-.624H6.217zM9.55 7.507H4.973v.624h6.18a2.36 2.36 0 00-1.602-.624zm2.056 1.191H4.973v.624h6.884a2.382 2.382 0 00-.25-.624zm-5.39 2.382v.624h4.87c.207-.176.382-.387.519-.624zm4.87 1.191h-4.87v.624h5.389a2.39 2.39 0 00-.519-.624zm-6.114 3.006h6.634c.11-.193.196-.402.25-.624H4.973zM0 8.13h4.352v-.624H0zm0 1.191h4.352v-.624H0zm1.243 1.191h1.865v-.624H1.243zm0 1.191h1.865v-.624H1.243zm0 1.19h1.865v-.623H1.243zm0 1.192h1.865v-.624H1.243zM0 15.276h4.352v-.623H0zm0 1.192h4.352v-.624H0Z" fill="#0F62FE"/>
+    <text x="362.7" y="318" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Generative AI for</text><text x="362.7" y="333" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Software Developers</text>
+    <text x="362.7" y="358" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">IBM · Coursera · jul 2026</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.696;1" dur="1.15s" fill="freeze"/>
+    <rect x="565.3" y="292" width="252.7" height="82" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="599.3" cy="322" r="19" fill="#0A0A23" opacity="0.13"/>
+    <path transform="translate(589.3 312.0) scale(0.8333)" d="M19.885 3.906a.621.621 0 00-.354.12c-.08.08-.161.196-.161.313 0 .2.236.474.673.923 1.822 1.754 2.738 3.903 2.732 6.494-.007 2.867-.97 5.17-2.844 6.954-.394.353-.556.63-.557.867 0 .116.08.237.16.353.076.08.237.162.353.162.434 0 1.04-.512 1.833-1.509 1.542-1.89 2.24-3.978 2.279-6.824.036-2.847-.857-4.777-2.603-6.77-.63-.712-1.153-1.082-1.511-1.083zm-15.769.002c-.358 0-.882.37-1.51 1.083C.858 6.984-.035 8.914.001 11.761c.04 2.846.737 4.933 2.28 6.824.791.997 1.398 1.51 1.832 1.509a.573.573 0 00.352-.162c.08-.116.16-.237.16-.353 0-.237-.162-.514-.556-.866-1.873-1.785-2.837-4.087-2.844-6.955-.006-2.591.91-4.74 2.732-6.494.437-.449.674-.722.673-.923 0-.117-.08-.233-.161-.313a.621.621 0 00-.354-.12zm7.056.895s.655 2.081-2.649 6.727c-3.156 4.433 1.045 7.15 1.432 7.386-.281-.18-2.001-1.5.402-5.423.466-.77 1.076-1.47 1.834-3.041 0 0 .67.946.32 2.998-.523 3.101 2.271 2.214 2.314 2.257.976 1.15-.808 3.17-.917 3.233-.108.061 5.096-3.13 1.399-7.935-.253.253-.582 1.442-1.267 1.266-.684-.174 2.125-3.494-2.868-7.468zM9.955 18.916c.023.016.038.024.038.024l-.038-.024z" fill="#0A0A23"/>
+    <text x="629.3" y="318" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Python Developer</text><text x="629.3" y="333" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Certification</text>
+    <text x="629.3" y="358" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">freeCodeCamp · 300 h · jul 2026</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.720;1" dur="1.25s" fill="freeze"/>
+    <rect x="32.0" y="386" width="252.7" height="82" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="66.0" cy="416" r="19" fill="#A435F0" opacity="0.13"/>
+    <path transform="translate(56.0 406.0) scale(0.8333)" d="M12 0L5.81 3.573v3.574l6.189-3.574 6.191 3.574V3.573zM5.81 10.148v8.144c0 1.85.589 3.243 1.741 4.234S10.177 24 11.973 24s3.269-.482 4.448-1.474c1.179-.991 1.768-2.439 1.768-4.314v-8.064h-3.242v7.85c0 2.036-1.509 3.055-2.948 3.055-1.428 0-2.947-.991-2.947-3.027v-7.878z" fill="#A435F0"/>
+    <text x="96.0" y="412" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">SQL: Creación de Bases</text><text x="96.0" y="427" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">de Datos</text>
+    <text x="96.0" y="452" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">Udemy · jul 2026</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.741;1" dur="1.35s" fill="freeze"/>
+    <rect x="298.7" y="386" width="252.7" height="82" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="332.7" cy="416" r="19" fill="#39A900" opacity="0.13"/>
+    <text x="332.7" y="420" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="800" fill="#39A900">SENA</text>
+    <text x="362.7" y="412" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Fundamentos de Redes de</text><text x="362.7" y="427" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Datos</text>
+    <text x="362.7" y="452" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">SENA · 60 h · oct 2023</text>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.759;1" dur="1.45s" fill="freeze"/>
+    <rect x="565.3" y="386" width="252.7" height="82" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="599.3" cy="416" r="19" fill="#39A900" opacity="0.13"/>
+    <text x="599.3" y="420" text-anchor="middle" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="800" fill="#39A900">SENA</text>
+    <text x="629.3" y="412" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Redes Inalámbricas:</text><text x="629.3" y="427" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">implementación y gestión</text>
+    <text x="629.3" y="452" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#59636e">SENA · 48 h · sept 2023</text>
+  </g>
+</svg>

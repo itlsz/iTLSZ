@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="468" viewBox="0 0 850 468" role="img" aria-label="Trayectoria: Copetran Ltda (Analista de Sistemas y Full Stack, 2026–hoy), Copetran Ltda (Desarrollo y automatización, 2025–2026), Cerrejón (Práctica de Ingeniería de Sistemas, 2025) y Freelance Full Stack (2024–hoy)">
+  <title>git log --career — trayectoria de Luis López</title>
+  <desc>© 2026 Luis López (todoesluis). Todos los derechos reservados. Diseño y código propios: prohibida su copia o reutilización sin permiso del autor.</desc>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.03"/>
+    </pattern>
+    <clipPath id="win"><rect x="1" y="1" width="848" height="466" rx="12"/></clipPath>
+    <linearGradient id="branch" gradientUnits="userSpaceOnUse" x1="44" y1="99" x2="44" y2="291">
+      <stop offset="0" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#d2a8ff"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="850" height="468" fill="#0d1117"/>
+    <rect width="850" height="36" fill="#161b22"/>
+    <rect y="36" width="850" height="1" fill="#30363d"/>
+    <rect width="850" height="468" fill="url(#scan)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="467" rx="12" fill="none" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <g font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+    <text x="425.0" y="23" text-anchor="middle" font-size="13" fill="#8b949e">luis@itlsz: ~/career</text>
+    <text x="32" y="70" font-size="15"><tspan fill="#7ee787">luis@itlsz</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#e6edf3">git log --career --graph --all</tspan></text>
+    <text x="818" y="70" text-anchor="end" font-size="12" fill="#8b949e">desde 2024 · La Guajira, Colombia</text>
+    <line x1="44" y1="99" x2="44" y2="291" stroke="url(#branch)" stroke-width="2"/>
+    <line x1="66" y1="387" x2="66" y2="99" stroke="#ffa657" stroke-width="2" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" values="0;-18" dur="1.2s" repeatCount="indefinite"/></line>
+    <circle cx="66" cy="99" r="4" fill="#ffa657"/>
+    <circle cx="66" cy="99" r="6" fill="none" stroke="#ffa657"><animate attributeName="r" values="6;13;6" dur="2.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.8;0;0.8" dur="2.6s" repeatCount="indefinite"/></circle>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.533;1" dur="0.75s" fill="freeze"/>
+      <circle cx="44" cy="99" r="6" fill="#7ee787" stroke="#7ee787" stroke-width="2"/><circle cx="44" cy="99" r="6" fill="none" stroke="#7ee787"><animate attributeName="r" values="6;13;6" dur="2.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.8;0;0.8" dur="2.2s" repeatCount="indefinite"/></circle>
+      <text x="90" y="104" font-size="13"><tspan fill="#f2cc60">a1f3c2e</tspan> <tspan fill="#8b949e">(</tspan><tspan fill="#79c0ff" font-weight="700">HEAD -&gt; actual</tspan><tspan fill="#8b949e">)</tspan> <tspan fill="#8b949e">· ago 2026 – hoy · Copetran Ltda · Albania, La Guajira</tspan></text>
+      <text x="90" y="128" font-size="15" font-weight="700" fill="#e6edf3">Analista de Sistemas | Ingeniero de Software Full Stack</text>
+      <text x="90" y="150" font-size="12.5" fill="#8b949e">Ciclo completo de soluciones web y móviles: requisitos, arquitectura, deploy e IA aplicada.</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.667;1" dur="1.05s" fill="freeze"/>
+      <circle cx="44" cy="195" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="90" y="200" font-size="13"><tspan fill="#f2cc60">7b9d04e</tspan> <tspan fill="#8b949e">· sept 2025 – jul 2026 · Copetran Ltda · Cerrejón</tspan></text>
+      <text x="90" y="224" font-size="15" font-weight="700" fill="#e6edf3">Desarrollador de Software y Automatización de Procesos | Auxiliar de TI</text>
+      <text x="90" y="246" font-size="12.5" fill="#8b949e">Software que modernizó la tecnología y las operaciones del área de TI.</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.741;1" dur="1.35s" fill="freeze"/>
+      <circle cx="44" cy="291" r="6" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
+      <text x="90" y="296" font-size="13"><tspan fill="#f2cc60">3c5e8a1</tspan> <tspan fill="#8b949e">· feb 2025 – ago 2025 · Cerrejón Colombia · Albania, La Guajira</tspan></text>
+      <text x="90" y="320" font-size="15" font-weight="700" fill="#e6edf3">Practicante de Ingeniería de Sistemas</text>
+      <text x="90" y="342" font-size="12.5" fill="#8b949e">Digitalización de Servicios Corporativos: requisitos, soluciones y análisis de datos.</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.788;1" dur="1.65s" fill="freeze"/>
+      <circle cx="66" cy="387" r="6" fill="#ffa657" stroke="#ffa657" stroke-width="2"/>
+      <text x="90" y="392" font-size="13"><tspan fill="#f2cc60">9e2b7f1</tspan> <tspan fill="#8b949e">(</tspan><tspan fill="#ffa657" font-weight="700">freelance</tspan><tspan fill="#8b949e">)</tspan> <tspan fill="#8b949e">· 2024 – hoy · Independiente · remoto</tspan></text>
+      <text x="90" y="416" font-size="15" font-weight="700" fill="#e6edf3">Desarrollador Full Stack Freelance</text>
+      <text x="90" y="438" font-size="12.5" fill="#8b949e">Webs, apps web a medida, apps móviles, bots y automatizaciones para negocios y emprendedores.</text>
+    </g>
+  </g>
+</svg>
