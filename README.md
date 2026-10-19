@@ -10,7 +10,7 @@
 
 <a href="mailto:lopezluis.lals@hotmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/contact-hotmail-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/contact-hotmail-light.svg"><img width="32.6%" src="https://itlsz.vercel.app/assets/contact-hotmail-dark.svg" alt="Hotmail: lopezluis.lals@hotmail.com" /></picture></a>
 <a href="https://www.linkedin.com/in/todoesluis/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/contact-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/contact-linkedin-light.svg"><img width="32.6%" src="https://itlsz.vercel.app/assets/contact-linkedin-dark.svg" alt="LinkedIn: in/todoesluis" /></picture></a>
-<a href="https://t.me/Iluislo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/contact-telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/contact-telegram-light.svg"><img width="32.6%" src="https://itlsz.vercel.app/assets/contact-telegram-dark.svg" alt="Telegram: @Iluislo" /></picture></a>
+<a href="https://t.me/itlsz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/contact-telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/contact-telegram-light.svg"><img width="32.6%" src="https://itlsz.vercel.app/assets/contact-telegram-dark.svg" alt="Telegram: @itlsz" /></picture></a>
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <a href="mailto:lopezluis.lals@hotmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/cta-mail-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/cta-mail-light.svg"><img src="https://itlsz.vercel.app/assets/cta-mail-dark.svg" alt="[1] Correo: lopezluis.lals@hotmail.com" width="100%" /></picture></a>
 <a href="https://www.linkedin.com/in/todoesluis/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/cta-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/cta-linkedin-light.svg"><img src="https://itlsz.vercel.app/assets/cta-linkedin-dark.svg" alt="[2] LinkedIn: in/todoesluis" width="100%" /></picture></a>
-<a href="https://t.me/Iluislo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/cta-telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/cta-telegram-light.svg"><img src="https://itlsz.vercel.app/assets/cta-telegram-dark.svg" alt="[3] Telegram: @Iluislo" width="100%" /></picture></a>
+<a href="https://t.me/itlsz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://itlsz.vercel.app/assets/cta-telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://itlsz.vercel.app/assets/cta-telegram-light.svg"><img src="https://itlsz.vercel.app/assets/cta-telegram-dark.svg" alt="[3] Telegram: @itlsz" width="100%" /></picture></a>
 
 ### `$ now-playing`
 
