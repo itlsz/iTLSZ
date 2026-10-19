@@ -16,8 +16,6 @@
 
 </div>
 
-<br>
-
 ### `$ whoami`
 
 <picture>
